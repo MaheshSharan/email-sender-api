@@ -22,7 +22,7 @@ Email Sender API is a simple, open-source RESTful API designed for sending custo
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/email-sender-api.git
+git clone https://github.com/MaheshSharan/email-sender-api
 cd email-sender-api
 ```
 
